@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://xsxun.github.io/sitemap.xml
